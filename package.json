@@ -1,0 +1,17 @@
+{
+  "name": "citizenscreditcardtomintcsv",
+  "version": "1.0.0",
+  "description": "Convert Citizens Bank credit card csv format to mint.com export csv format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "squdgy",
+  "license": "ISC",
+  "dependencies": {
+    "command-line-args": "^5.1.1",
+    "command-line-usage": "^5.0.5",
+    "csv": "^5.1.1",
+    "fs": "0.0.1-security"
+  }
+}
